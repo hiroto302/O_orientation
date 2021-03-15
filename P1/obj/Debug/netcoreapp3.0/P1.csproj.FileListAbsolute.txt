@@ -1,0 +1,11 @@
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/bin/Debug/netcoreapp3.0/P1
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/bin/Debug/netcoreapp3.0/P1.deps.json
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/bin/Debug/netcoreapp3.0/P1.runtimeconfig.json
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/bin/Debug/netcoreapp3.0/P1.runtimeconfig.dev.json
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/bin/Debug/netcoreapp3.0/P1.dll
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/bin/Debug/netcoreapp3.0/P1.pdb
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/obj/Debug/netcoreapp3.0/P1.csprojAssemblyReference.cache
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/obj/Debug/netcoreapp3.0/P1.AssemblyInfoInputs.cache
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/obj/Debug/netcoreapp3.0/P1.AssemblyInfo.cs
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/obj/Debug/netcoreapp3.0/P1.dll
+/Users/hiro302/C#/P_Anderson/O_orientation/P1/obj/Debug/netcoreapp3.0/P1.pdb
